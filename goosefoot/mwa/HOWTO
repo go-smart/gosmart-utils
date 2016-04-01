@@ -1,0 +1,2 @@
+for i in 60 70 80 50 90 100 110 120 130 140 35 40; do python tests/tosoratti-probe-sensitivity.py --power $i; done
+for i in 60 70 80 50 90 100 110 120 130 140 35 40; do python vtu_to_dat.py --power $i > sar-`printf %04d $i`.dat; done

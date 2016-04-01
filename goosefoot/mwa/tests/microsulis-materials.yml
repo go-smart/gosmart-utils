@@ -1,0 +1,32 @@
+tissue:
+  eps_r: 43.03
+  sigma: 1.69
+  mu_r: 1
+PTFE:
+  eps_r: 1.7
+  sigma: 0
+  mu_r: 1
+copper:
+  eps_r: 1
+  sigma: 58.0e+6
+  mu_r: 1
+air:
+  eps_r: 1
+  sigma: 0
+  mu_r: 1
+adhesive:
+  eps_r: 3
+  sigma: 0
+  mu_r: 1
+zirconia:
+  eps_r: 18
+  sigma: 0
+  mu_r: 1
+solder:
+  eps_r: 1
+  sigma: 7.0e+6
+  mu_r: 1
+stainless_steel:
+  eps_r: 1
+  sigma: 1.1e+6
+  mu_r: 1

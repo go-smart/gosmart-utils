@@ -1,0 +1,13 @@
+MITA models
+
+This repository contains the code for running models of minimally
+invasive tumour ablation.
+
+Before doing anything the script install.sh should be executed.
+This simply prepares the test cases.
+
+In order to check the installation the script run_tests.sh can be
+executed. This takes approximately 2 days at the moment and
+generates a txt file containing the output.
+
+(originally Sheldon Hall, UO; additional contributions from NUMA Engineering Services Ltd.)

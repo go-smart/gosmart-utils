@@ -1,0 +1,42 @@
+tissue:
+  region: 1
+  material: tissue
+copper_ferrule:
+  region: 2
+  material: copper
+dielectric_cylinder:
+  region: 3
+  material: zirconia
+tip:
+  region: 4
+  material: zirconia
+central_conductor:
+  region: 5
+  material: copper
+washer:
+  region: 6
+  material: copper
+coax_dielectric:
+  region: 7
+  material: PTFE
+outer_conductor:
+  region: 8
+  material: copper
+air_gap_1:
+  region: 9
+  material: air
+shaft:
+  region: 10
+  material: stainless_steel
+air_gap_2:
+  region: 11
+  material: air
+adhesive_1:
+  region: 12
+  material: adhesive
+solder:
+  region: 13
+  material: solder
+adhesive_2:
+  region: 14
+  material: adhesive
