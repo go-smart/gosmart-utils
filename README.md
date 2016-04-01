@@ -22,3 +22,11 @@ guaranteed to work in all situations, it makes a couple of
 assumptions, but we haven't had incorrect output thus far. In
 general, it should be pretty clear if there is an issue
 as the needles will not line up with the rest of the output.
+
+### MWA
+
+Fork of <https://github.com/sheldonkhall/MITA-model/> containing
+GPLv3 addition of Microsulis probe and some extra documentation
+on updated Go-Smart Goosefoot MWA approach.
+
+TODO: organize a pull request
